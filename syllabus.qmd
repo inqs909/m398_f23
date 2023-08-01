@@ -1,0 +1,129 @@
+---
+title: "Syllabus"
+editor: source
+format:
+  html: 
+    code-fold: true
+    html-math-method: katex
+---
+
+## Math 398: Advanced Research Investigations
+
+### Course Information
+
+**Term:** Fall 2023
+
+**Instructor:** Isaac Quintanilla Salinas
+
+**Contact:** isaac.qs\@csuci.edu
+
+**Office Location:** BTE 2840
+
+**Office Hours:**
+
+| OH       | Course       | R Programming | Math/Stat Hour |
+|:---------|:-------------|:--------------|:---------------|
+| Day      | MW           | Tue           | Tue            |
+| Location | BTE 2840     | BTE 2810      | BTE 2810       |
+| Time     | 4:30-5:30 PM | 10-12 AM      | 4-6 PM         |
+
+Or by Zoom appointment.
+
+**Lecture:** Monday and Wednesday 12:00-1:15 PM in BT 1462
+
+### Course Description
+
+Explore an interdisciplinary mathematical, statistical, or computational research question in independent groups. With faculty mentoring, students develop their own research plans drawing on multiple disciplines and the multiple approaches to research. Students will disseminate results through a research paper and presentations on campus. In addition, students will be encouraged to identify and apply to relevant summer research programs, internships, and scholarships.
+
+### Learning Outcomes
+
+-   Learn the basic fundamentals of GIS and spatial analysis.
+-   Develop programming skills to analyse geographical data.
+-   Write the results of a statistical study and draw conclusion in reports.
+-   Develop presentations for community stakeholders.
+
+### Textbook
+
+-   Geocomputation with R
+
+    -   [r.geocompx.org](https://r.geocompx.org/index.html)
+
+-   Spatial Data Science: with Applications in R
+
+    -   [r-spatial.org/book/](https://r-spatial.org/book/)
+
+### Required Software
+
+For this course, we will use R and RStudio. You will have access to them online, but you may download and install them on your computer.
+
+-   **R** is a free statistical software program that is available for download at: <https://www.r-project.org/>.
+
+-   **RStudio** provides free and open source tools for your data analysis in R: <https://www.rstudio.com/>
+
+### Community Partner
+
+This course will be working on answering question for the community partner Community Action of Ventura County. More information about the partner can be found here: <https://ca-vc.org/>.
+
+### Course Projects
+
+You will be working in a group of 4-5 students to answer a questions that are of interest to the community partner. While there are questions of interest, your group will have free range in answering any question related to the project so long as the group can get data. The projects are listed below:
+
+### Course Grading
+
+| Category                        | Percentage |
+|:--------------------------------|:-----------|
+| Literature Review               | 10%        |
+| Mid-Semester Data Analysis Code | 20%        |
+| Weekly Reflections              | 30%        |
+| Draft of Report                 | 10%        |
+| Final Report                    | 10%        |
+| Final Presentation              | 20%        |
+
+At the end of the quarter, course grades will be assigned according to the following scale:
+
+|         |            |        |            |         |            |         |            |       |       |
+|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
+| **A+**  | 98 -- 100  | **B+** | 87 -- \<90 | **C+**  | 77 -- \<80 | **D+**  | 67 -- \<70 |       |       |
+| **A**   | 93 -- \<98 | **B**  | 83 -- \<87 | **C**   | 73 -- \<77 | **D**   | 63 -- \<67 | **F** | \< 60 |
+| **A--** | 90 - \<93  | **B-** | 80 -- \<83 | **C--** | 70 -- \<73 | **D--** | 60 -- \<63 |       |       |
+
+#### Extra Credit
+
+There will be **3** extra credit opportunities worth a total of 10% of your overall grade. (There are no make-ups for missed extra credit assignments!) More information will be provided on the extra credit assignments on a later date. Information on the extra credit can be found [here](ec.html).
+
+### Class Schedule
+
+The following outline may be subject to change. Any changes will be announced in class.
+
+| Week        | Topic | Other |
+|:------------|:------|:------|
+| 8/21-8/25   |       |       |
+| 8/28-9/1    |       |       |
+| 9/4-9/8     |       |       |
+| 9/11-9/15   |       |       |
+| 9/18-9/22   |       |       |
+| 9/25-9/29   |       |       |
+| 10/2-10/6   |       |       |
+| 10/9-10/13  |       |       |
+| 10/16-10/20 |       |       |
+| 10/23-10/27 |       |       |
+| 10/30-11/3  |       |       |
+| 11/6-11/10  |       |       |
+| 11/13-11/17 |       |       |
+| 11/20-11/24 |       |       |
+| 11/27-12/1  |       |       |
+| 12/4-12/8   |       |       |
+
+### University Policies
+
+1.  **Academic Honesty**:
+
+    Please conduct yourself with honesty and integrity. Do not submit others' work as your own. For assignments and quizzes that allow you to work with a group, only put your name on what the group submits if you genuinely contributed to the work. Work completely independently on exams, using only the materials that are indicated as allowed. Failure to observe academic honesty results in substantial penalties that can include failing the course.
+
+2.  **Disabilities:**
+
+    If you are a student with a disability requesting reasonable accommodations in this course, you need to contact Disability Accommodations and Support Services (DASS) located on the second floor of Arroyo Hall, via email accommodations\@csuci.edu or call 805-437-3331. All requests for reasonable accommodations require registration with DASS in advance of need: <https://www.csuci.edu/dass/students/apply-for-services.htm>. Faculty, students and DASS will work together regarding classroom accommodations. You are encouraged to discuss approved.
+
+3.  **Emergency Procedure Notice to Students:**
+
+    CSUCI is following guidelines and public orders from the California Department of Public Health and Ventura County Public Health for the COVID-19 pandemic as it pertains to CSUCI students, employees and visitors on the campus. Students are expected to adhere to all health and safety requirements as noted on the University's Spring 2023 Semester [website](https://www.csuci.edu/news/campus-updates/covid-19/index.htm) or they may be subject to removal from the classroom.
