@@ -1,0 +1,48 @@
+---
+title: "Extra Credit 2"
+description: Instructions for extra credit two.
+date: 08-05-2023
+editor: visual
+format:
+  html: 
+    code-fold: true
+    html-math-method: katex
+---
+
+Provide a summary of one book below, an write a brief analysis in supporting or opposing the book, and a personal reaction of the book. The majority of these books are available through the Broome Library.
+
+**Books:**
+
+-   Happiness: A Guide to Developing Life's
+
+    -   Matthieu Ricard
+
+-   Grit: The Power of Passion and Perserverance
+
+    -   Angela Duckworth
+
+-   Mindset: The New Psychology of Success
+
+    -   Carol Dweck
+
+-   Thrivers: The Surprising Reasons Why Some Kids Struggle and Others Shine
+
+    -   Michele Borba
+
+Report guidelines
+
+-   5-6 Pages
+
+-   Must include a title page
+
+-   Double Spaced
+
+-   12 point font
+
+-   Proofread your work
+
+-   Submit a pdf of your work to Canvas
+
+-   **Due 12/4/2023**
+
+**Worth 4 final grade percentage points.**

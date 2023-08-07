@@ -2,18 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>m398.inqs.info/books.html</loc>
-    <lastmod>2023-08-01T20:00:04.826Z</lastmod>
+    <lastmod>2023-08-07T19:33:22.130Z</lastmod>
   </url>
   <url>
     <loc>m398.inqs.info/ec.html</loc>
-    <lastmod>2023-08-01T20:00:05.046Z</lastmod>
+    <lastmod>2023-08-07T19:33:22.474Z</lastmod>
+  </url>
+  <url>
+    <loc>m398.inqs.info/ec/ec_1.html</loc>
+    <lastmod>2023-08-07T19:33:22.666Z</lastmod>
+  </url>
+  <url>
+    <loc>m398.inqs.info/ec/ec_2.html</loc>
+    <lastmod>2023-08-07T19:33:22.862Z</lastmod>
+  </url>
+  <url>
+    <loc>m398.inqs.info/ec/ec_3.html</loc>
+    <lastmod>2023-08-07T19:33:23.078Z</lastmod>
+  </url>
+  <url>
+    <loc>m398.inqs.info/ec/ec_4.html</loc>
+    <lastmod>2023-08-07T19:33:23.418Z</lastmod>
   </url>
   <url>
     <loc>m398.inqs.info/index.html</loc>
-    <lastmod>2023-08-01T20:00:05.262Z</lastmod>
+    <lastmod>2023-08-07T19:33:23.626Z</lastmod>
   </url>
   <url>
     <loc>m398.inqs.info/syllabus.html</loc>
-    <lastmod>2023-08-01T20:00:05.606Z</lastmod>
+    <lastmod>2023-08-07T19:33:23.982Z</lastmod>
   </url>
 </urlset>
