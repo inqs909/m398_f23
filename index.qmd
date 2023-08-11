@@ -14,7 +14,7 @@ Welcome to the course! This is the home page of the course where I will provide 
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
-### **Introduction to Statistics Book**
+### **Introduction to Modern Statistics Book**
 
-<https://www.openintro.org/book/os/>
+<https://www.openintro.org/book/ims/>
 :::
