@@ -70,14 +70,15 @@ You will be working in a group of 4-5 students to answer a questions that are of
 
 ### Course Grading
 
-| Category                        | Percentage |
-|:--------------------------------|:-----------|
-| Literature Review               | 10%        |
-| Mid-Semester Data Analysis Code | 20%        |
-| Weekly Reflections              | 30%        |
-| Draft of Report                 | 10%        |
-| Final Report                    | 10%        |
-| Final Presentation              | 20%        |
+| Category                            | Percentage |
+|:------------------------------------|:-----------|
+| Project Plan                        | 10%        |
+| Literature Review                   | 10%        |
+| Draft of Data Analysis Project Code | 20%        |
+| Weekly Reflections                  | 20%        |
+| Draft of Report                     | 10%        |
+| Final Report                        | 10%        |
+| Final Presentation                  | 20%        |
 
 At the end of the quarter, course grades will be assigned according to the following scale:
 
@@ -87,6 +88,16 @@ At the end of the quarter, course grades will be assigned according to the follo
 | **A**   | 93 -- \<98 | **B**  | 83 -- \<87 | **C**   | 73 -- \<77 | **D**   | 63 -- \<67 | **F** | \< 60 |
 | **A--** | 90 - \<93  | **B-** | 80 -- \<83 | **C--** | 70 -- \<73 | **D--** | 60 -- \<63 |       |       |
 
+#### Literature Review
+
+#### Mid-Semester Data Analysis Code
+
+#### Weekly Reflections
+
+#### Draft of Report
+
+#### Final Presentation and Report
+
 #### Extra Credit
 
 There will be **3** extra credit opportunities worth a total of 10% of your overall grade. (There are no make-ups for missed extra credit assignments!) More information will be provided on the extra credit assignments on a later date. Information on the extra credit can be found [here](ec.html).
@@ -95,24 +106,26 @@ There will be **3** extra credit opportunities worth a total of 10% of your over
 
 The following outline may be subject to change. Any changes will be announced in class.
 
-| Week        | Topic | Other |
-|:------------|:------|:------|
-| 8/21-8/25   |       |       |
-| 8/28-9/1    |       |       |
-| 9/4-9/8     |       |       |
-| 9/11-9/15   |       |       |
-| 9/18-9/22   |       |       |
-| 9/25-9/29   |       |       |
-| 10/2-10/6   |       |       |
-| 10/9-10/13  |       |       |
-| 10/16-10/20 |       |       |
-| 10/23-10/27 |       |       |
-| 10/30-11/3  |       |       |
-| 11/6-11/10  |       |       |
-| 11/13-11/17 |       |       |
-| 11/20-11/24 |       |       |
-| 11/27-12/1  |       |       |
-| 12/4-12/8   |       |       |
+| Week                | Topic                                                 | Other                        |
+|:-----------|:----------------------------------|--------------------------|
+| **1:** 8/21-8/25    | Intro to Course/Data Science/Introduction to Projects |                              |
+| **2:** 8/28-9/1     | Introduction to GIS/Spatial Data Science              |                              |
+| **3:** 9/4-9/8      | Community Action Ventura County/Choose Projects       |                              |
+| **4:** 9/11-9/15    | Literature Review/Developing a plan                   |                              |
+| **5:** 9/18-9/22    | GIS Basics/Obtaining and/or generating data           |                              |
+| **6:** 9/25-9/29    | GIS Basics                                            |                              |
+| **7:** 10/2-10/6    | GIS Analysis                                          |                              |
+| **8:** 10/9-10/13   | GIS Analysis                                          | Lit Review Due               |
+| **9:** 10/16-10/20  | Spatial Modelling                                     |                              |
+| **10:** 10/23-10/27 | Spatial Modelling                                     |                              |
+| **11:** 10/30-11/3  | Finalize Analysis                                     | Draft of Project Code is Due |
+| **12:** 11/6-11/10  | Finalize Analysis                                     |                              |
+| **13:** 11/13-11/17 | Writing Report                                        |                              |
+| **14:** 11/20-11/24 | Write Report                                          | Draft of Report is due       |
+| **15:** 11/27-12/1  | Mock Presenation                                      |                              |
+| **16:** 12/4-12/8   | Final Report and Presentation Due                     | Final Report Due             |
+
+*Schedule is subject to change based on community partner and needs of the course.*
 
 ### University Policies
 

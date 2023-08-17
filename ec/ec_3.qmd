@@ -1,50 +1,37 @@
 ---
 title: "Extra Credit 3"
 description: Instructions for extra credit three.
-date: 08-05-2023
+date: 08-07-2023
 editor: visual
-draft: true
 format:
   html: 
     code-fold: true
     html-math-method: katex
 ---
 
-Provide a summary of one book below, an write a brief analysis in supporting or opposing the book, and a personal reaction of the book. Some of these books are available through the Broome Library.
+Provide a summary of one book below, an write a brief analysis in supporting or opposing the book, and a personal reaction of the book. The majority of these books are available through the Broome Library.
 
 **Books:**
 
--   The Book of Why
+-   Happiness: A Guide to Developing Life's
 
-    -   Judea Pearl
+    -   Matthieu Ricard
 
--   Algorithms of Oppression
+-   Grit: The Power of Passion and Perserverance
 
-    -   Safiya Umoja Noble
+    -   Angela Duckworth
 
--   Data Feminism
+-   Mindset: The New Psychology of Success
 
-    -   Catherine D'Ignazio and Lauren Klein
+    -   Carol Dweck
 
--   Weapons of Math Destruction
+-   Thrivers: The Surprising Reasons Why Some Kids Struggle and Others Shine
 
-    -   Cathy O'Niel
+    -   Michele Borba
 
--   Invisible women : data bias in a world designed for men
+-   Limitless Mind: Learn, Lead, and Live Without Borders
 
-    -   Caroline Criado Perez
-
--   Factfulness: Ten Reasons We're Wrong About the World... and Why Things are Better Than You Think
-
-    -   Hans Rosling
-
--   Artificial Unintelligence: How Computers Misunderstand the World
-
-    -   Merideth Broussard
-
--   Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech
-
-    -   Sara Wachter-Boettcher
+    -   Jo Boaler
 
 Report guidelines
 
@@ -62,4 +49,4 @@ Report guidelines
 
 -   **Due 12/4/2023**
 
-**Worth 4 final grade percentage points.**
+**Worth 3 final grade percentage points.**
