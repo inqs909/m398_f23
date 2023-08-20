@@ -23,9 +23,9 @@ format:
 
 | OH       | Course       | R Programming | Math/Stat Hour |
 |:---------|:-------------|:--------------|:---------------|
-| Day      | MW           | Tue           | Tue            |
-| Location | BTE 2840     | BTE 2810      | BTE 2810       |
-| Time     | 4:30-5:30 PM | 10-12 AM      | 4-6 PM         |
+| Day      | MW           | Thur          | Tue            |
+| Location | BTE 2840     | BTE 2810      | BTE Courtyard  |
+| Time     | 4:30-6:00 PM | 10-12 AM      | 4-6 PM         |
 
 Or by Zoom appointment.
 
@@ -68,35 +68,63 @@ This course will be working on answering question for the community partner Comm
 
 You will be working in a group of 4-5 students to answer a questions that are of interest to the community partner. While there are questions of interest, your group will have free range in answering any question related to the project so long as the group can get data. The projects are listed below:
 
+1.  Climate Change and Food Insecurity in Ventura County (CAVC)
+2.  Identifying potential sites for distribution of infant products (diapers) in Ventura County (CAVC)
+3.  Geographic distribution of unvaccination rates in Ventura County
+
 ### Course Grading
 
 | Category                            | Percentage |
 |:------------------------------------|:-----------|
 | Project Plan                        | 10%        |
 | Literature Review                   | 10%        |
-| Draft of Data Analysis Project Code | 20%        |
-| Weekly Reflections                  | 20%        |
+| Draft of Data Analysis Project Code | 10%        |
+| Weekly Reports                      | 10%        |
+| Weekly Presentations                | 10%        |
 | Draft of Report                     | 10%        |
-| Final Report                        | 10%        |
-| Final Presentation                  | 20%        |
+| Reflections                         | 10%        |
+| Final Report                        | 15%        |
+| Final Presentation                  | 15%        |
 
 At the end of the quarter, course grades will be assigned according to the following scale:
 
 |         |            |        |            |         |            |         |            |       |       |
-|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
+|:-----|:--------|:-----|:--------|:-----|:--------|:-----|:---------|:-----|:-------|
 | **A+**  | 98 -- 100  | **B+** | 87 -- \<90 | **C+**  | 77 -- \<80 | **D+**  | 67 -- \<70 |       |       |
 | **A**   | 93 -- \<98 | **B**  | 83 -- \<87 | **C**   | 73 -- \<77 | **D**   | 63 -- \<67 | **F** | \< 60 |
 | **A--** | 90 - \<93  | **B-** | 80 -- \<83 | **C--** | 70 -- \<73 | **D--** | 60 -- \<63 |       |       |
 
+***All assignments are submitted as groups.***
+
 #### Literature Review
+
+The literature review provides the base knowledge of the topic at hand. Your task will be to read peer-reviewed articles related to topic and craft an introduction explaining what is known. The literature review will serve as the basis to what questions you will ask for the analysis.
 
 #### Mid-Semester Data Analysis Code
 
-#### Weekly Reflections
+At the end of October, you will submit a working code draft that includes the final analysis of your code. This will include the publicly-available data, cleaning scripts, descriptive statistics scripts, advance models, and final model. You will obtain feedback of your code for you to finalize. You code must be well-commented to receive credit.
+
+#### Weekly Reports
+
+Each Wednesday, you will provide a brief report documenting your plans and progress for the week. Your group will document what everyone is planning to code, read, and/or write. You will also report any challenges you faced in the previous week and how you will try to resolve them the upcoming week.
+
+#### Weekly Presentations
+
+Each Monday, your group will give a 10 minute presentation updating the class on your project's progress. You will be presenting on any related to your project such as: data sources, analysis, code, bugs, new ideas, challenges, and any other relevant information. Only 2 people from your group will present during the presentation. Each group member has to present at least 3 times for the weekly presentations.
+
+#### Reflections
+
+Their will be reflective assignments related to the class and project through out the course that will be completed individually. You will be given about a week for you to complete.
 
 #### Draft of Report
 
+The Draft of Report will be a working draft of the final paper
+
 #### Final Presentation and Report
+
+The final presentation will be on the finals day
+
+The final report will be written as a scientific paper where you will be
 
 #### Extra Credit
 
@@ -107,11 +135,11 @@ There will be **3** extra credit opportunities worth a total of 10% of your over
 The following outline may be subject to change. Any changes will be announced in class.
 
 | Week                | Topic                                                 | Other                        |
-|:-----------|:----------------------------------|--------------------------|
+|:---------------|:-------------------------------|------------------------|
 | **1:** 8/21-8/25    | Intro to Course/Data Science/Introduction to Projects |                              |
 | **2:** 8/28-9/1     | Introduction to GIS/Spatial Data Science              |                              |
-| **3:** 9/4-9/8      | Community Action Ventura County/Choose Projects       |                              |
-| **4:** 9/11-9/15    | Literature Review/Developing a plan                   |                              |
+| **3:** 9/4-9/8      | Literature Review/Developing a plan                   |                              |
+| **4:** 9/11-9/15    | GIS Basics/Obtaining and/or generating data           |                              |
 | **5:** 9/18-9/22    | GIS Basics/Obtaining and/or generating data           |                              |
 | **6:** 9/25-9/29    | GIS Basics                                            |                              |
 | **7:** 10/2-10/6    | GIS Analysis                                          |                              |
@@ -122,7 +150,7 @@ The following outline may be subject to change. Any changes will be announced in
 | **12:** 11/6-11/10  | Finalize Analysis                                     |                              |
 | **13:** 11/13-11/17 | Writing Report                                        |                              |
 | **14:** 11/20-11/24 | Write Report                                          | Draft of Report is due       |
-| **15:** 11/27-12/1  | Mock Presenation                                      |                              |
+| **15:** 11/27-12/1  | Mock Presentation                                     |                              |
 | **16:** 12/4-12/8   | Final Report and Presentation Due                     | Final Report Due             |
 
 *Schedule is subject to change based on community partner and needs of the course.*
@@ -140,7 +168,7 @@ The following outline may be subject to change. Any changes will be announced in
 3.  **Emergency Procedure Notice to Students:**
 
     CSUCI is following guidelines and public orders from the California Department of Public Health and Ventura County Public Health for the COVID-19 pandemic as it pertains to CSUCI students, employees and visitors on the campus. Students are expected to adhere to all health and safety requirements as noted on the University's Spring 2023 Semester [website](https://www.csuci.edu/news/campus-updates/covid-19/index.htm) or they may be subject to removal from the classroom.
-    
+
 ### Important note about a possible work stoppage during the semester
 
 The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. It is possible that we will call a strike or other work stoppage this term. I promise to promptly inform you of any schedule disruption. Our working conditions are your learning conditions; we seek to protect both. For further information go to www.CFAbargaining.org.
