@@ -23,9 +23,9 @@ format:
 
 | OH       | Course       | R Programming | Math/Stat Hour |
 |:---------|:-------------|:--------------|:---------------|
-| Day      | MW           | Thur          | Tue            |
+| Day      | MW           | Tue           | Thur           |
 | Location | BTE 2840     | BTE 2810      | BTE Courtyard  |
-| Time     | 4:30-6:00 PM | 10-12 AM      | 4-6 PM         |
+| Time     | 4:30-6:00 PM | 10-12 AM      | 12-1:30 PM     |
 
 Or by Zoom appointment.
 
@@ -102,7 +102,7 @@ The literature review provides the base knowledge of the topic at hand. Your tas
 
 #### Mid-Semester Data Analysis Code
 
-At the end of October, you will submit a working code draft that includes the final analysis of your code. This will include the publicly-available data, cleaning scripts, descriptive statistics scripts, advance models, and final model. You will obtain feedback of your code for you to finalize. You code must be well-commented to receive credit.
+At the end of October, you will submit a working code draft that includes the final analysis of your code. This will include the publicly-available data, cleaning scripts, descriptive statistics scripts, advance models, and final model. You will obtain feedback for the group to finalize. Your code must be well-commented to receive credit.
 
 #### Weekly Reports
 
@@ -110,21 +110,20 @@ Each Wednesday, you will provide a brief report documenting your plans and progr
 
 #### Weekly Presentations
 
-Each Monday, your group will give a 10 minute presentation updating the class on your project's progress. You will be presenting on any related to your project such as: data sources, analysis, code, bugs, new ideas, challenges, and any other relevant information. Only 2 people from your group will present during the presentation. Each group member has to present at least 3 times for the weekly presentations.
+Each Monday, your group will give a 10 minute presentation updating the class on your project's progress. You will be presenting on anything related to your project such as: data sources, analysis, code, bugs, new ideas, challenges, and any other relevant information. Only 2 people from your group will present during the presentation. Each group member must present at least 3 times during the semester.
 
 #### Reflections
 
-Their will be reflective assignments related to the class and project through out the course that will be completed individually. You will be given about a week for you to complete.
+There will be reflective assignments related to the class and project through out the course that will be completed individually.
 
 #### Draft of Report
 
-The Draft of Report will be a working draft of the final paper
+The Draft of Report will be a working draft of the final paper. The paper must contain an Abstract, Introduction, Methods, Data Description, Results, and Discussion sections. The paper must contain an Appendix containing detailed methods, extended tables, visuals, and code.
 
 #### Final Presentation and Report
 
-The final presentation will be on the finals day
+The final report and presentation will be the final product that your group will produce for the class. More information about the final presentation and report will come at a later date.
 
-The final report will be written as a scientific paper where you will be
 
 #### Extra Credit
 
