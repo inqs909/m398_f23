@@ -171,11 +171,13 @@ editor: visual
 
 -   Using school data and census data, you will create a model to identify which factors affect vaccine uptake.
 
--    Required Knowledge
+-   Required Knowledge
 
-    -   GIS
+```         
+-   GIS
 
-    -   Spatial Regression
+-   Spatial Regression
+```
 
 -   Challenges to Analysis
 
