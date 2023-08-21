@@ -1,0 +1,192 @@
+---
+title: "Welcome!"
+subtitle: "Advance Research Investigations"
+format:
+  revealjs:
+    scrollable: true
+    theme: [default, styles.scss]
+    navigation-mode: vertical
+    controls-layout: bottom-right
+    controls-tutorial: true
+    incremental: false 
+    chalkboard:
+      src: chalkboard.json
+      storage: chalkboard_pres
+      theme: whiteboard
+      chalk-width: 4
+knitr:
+  opts_chunk: 
+    echo: true
+    eval: true
+    message: false
+    warnings: false
+    comment: "#>" 
+    
+revealjs-plugins:
+  - pointer
+  - verticator
+  
+filters: 
+  - reveal-header
+  - code-fullscreen
+
+editor: visual
+---
+
+## Learning Outcomes
+
+-   Introductions
+
+-   Class Activity
+
+-   Syllabus
+
+-   Community Projects
+
+-   Installing R
+
+# Introductions
+
+## Introductions
+
+-   San Bernardino, CA
+
+-   CSU Monterey Bay
+
+    -   BS Biology
+
+-   San Diego State University
+
+    -   Master's in Public Health
+
+-   UC Riverside
+
+    -   PhD in Applied Statistics
+
+## Introductions
+
+::: nonincremental
+-   Name
+
+-   Year
+
+-   Major
+
+    -   Concentration
+
+-   Fun Fact
+
+-   What did you do for the summer?
+
+-   Career Goal
+:::
+
+# Class Activity
+
+## Class Activity
+
+-   What is a non-textbook (or math/stats/cs) book that you want to read, but don't have time to?
+
+-   Take a five minutes to think of the book.
+
+-   On a piece of paper, write the name of the book and why you want to read it. You will turn this in!
+
+-   Talk to your neighbor and share the book you want to read.
+
+# Syllabus
+
+# Community Projects
+
+## Community Project
+
+-   Using publicly available data, you will form in groups to answer the questions asked by the community partner.
+
+-   All projects will require GIS work
+
+-   Some projects are easier than others
+
+-   All analysis must be conducted in R
+
+-   Groups will have free-range of the analysis, but it must be related to the topic.
+
+-   These are student-lead independent projects under the guidance of the professor.
+
+-   The groups will be created by the professor.
+
+-   The final product will be a scientific report.
+
+## Community Member
+
+[Community Action Ventura County](https://ca-vc.org/)
+
+## Community Projects
+
+-   Identify locations to distribute diapers, and other infant products, to Ventura Couny
+
+-   Understand how climate change affects food insecurity in Ventura County
+
+-   Understanding the geographic distribution of vaccine hesitancy of Ventura County
+
+## Diaper Distribution
+
+-   Locations where low income families reside.
+
+-   Identify challenges to diaper acquirement
+
+-   Closest WIC or other low/no-cost infant locations
+
+-   Travel Time and bus routes
+
+-   Required knowledge
+
+    -   GIS
+
+    -   Network Analysis
+
+-   Challenges to Analysis:
+
+    -   Network Analysis
+
+## Climate Change
+
+-   What are climate change factors affecting food insecurity?
+
+    -   Flooding
+
+    -   Disease
+
+        -   Mosquito-borne diseases
+
+    -   Temperature
+
+-   Required knowledge
+
+    -   GIS
+
+-   Challenges to Analysis
+
+    -   Disciplinary knowledge
+
+## Vaccine Hesitancy
+
+-   Using school data and census data, you will create a model to identify which factors affect vaccine uptake.
+
+-    Required Knowledge
+
+    -   GIS
+
+    -   Spatial Regression
+
+-   Challenges to Analysis
+
+    -   Must incorporate a Monte Carlo Approach
+
+## Survey
+
+Complete this [Survey](https://forms.gle/xgwoBzWWX4d6VLYLA)
+
+![](https://www.inqs.info/m398_f23/files/img/frame.png){fig-alt="QR Code for survey" fig-align="center"}
+
+# Installing R
+
+## 
