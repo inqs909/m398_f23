@@ -191,4 +191,40 @@ Complete this [Survey](https://forms.gle/xgwoBzWWX4d6VLYLA)
 
 # Installing R
 
-## 
+## Install R
+
+https://cran.r-project.org/
+
+**Must update to 4.3**
+
+## Install Rtools (for Windows)
+
+https://cran.r-project.org/bin/windows/Rtools/
+
+## Install RStudio
+
+https://posit.co/download/rstudio-desktop/
+
+## Install Quarto
+
+https://quarto.org/docs/get-started/
+
+## Install csustats
+
+https://www.inqs.info/csustats/
+
+## Install sf
+
+https://r-spatial.github.io/sf/
+
+## Install Zotero (Optional)
+
+https://www.zotero.org/
+
+## Install Git (Optional)
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+## Create Github Account (Optional)
+
+https://github.com/
