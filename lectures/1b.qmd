@@ -37,9 +37,11 @@ editor: visual
 
 -   Installing R
 
--   Meeting Groups
+-   R Packages
 
--   R Programming
+-   Optional
+
+-   Meeting Groups
 
 # Installing R
 
@@ -60,6 +62,8 @@ editor: visual
 ## Install Quarto
 
 <https://quarto.org/docs/get-started/>
+
+# R Packages
 
 ## Install Tidyverse
 
@@ -87,6 +91,8 @@ editor: visual
 ## Install sf
 
 <https://r-spatial.github.io/sf/>
+
+# Optional
 
 ## Install Zotero (Optional)
 
