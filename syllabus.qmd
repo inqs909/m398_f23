@@ -24,7 +24,7 @@ format:
 | OH       | Course       | R Programming | Math/Stat Hour |
 |:---------|:-------------|:--------------|:---------------|
 | Day      | MW           | Tue           | Thur           |
-| Location | BTE 2840     | BTE 2810      | BTE Courtyard  |
+| Location | BT 1462      | LRC           | BTE Courtyard  |
 | Time     | 4:30-6:00 PM | 10-12 AM      | 12-1:30 PM     |
 
 Or by Zoom appointment.
