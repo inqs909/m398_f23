@@ -1,0 +1,175 @@
+---
+title: "Welcome!"
+subtitle: "Advance Research Investigations"
+format:
+  revealjs:
+    scrollable: true
+    theme: [default, styles.scss]
+    navigation-mode: vertical
+    controls-layout: bottom-right
+    controls-tutorial: true
+    incremental: false 
+    chalkboard:
+      src: chalkboard.json
+      storage: chalkboard_pres
+      theme: whiteboard
+      chalk-width: 4
+knitr:
+  opts_chunk: 
+    echo: true
+    eval: true
+    message: false
+    warnings: false
+    comment: "#>" 
+    
+revealjs-plugins:
+  - pointer
+  - verticator
+  
+filters: 
+  - reveal-header
+  - code-fullscreen
+
+editor: visual
+---
+
+## Learning Outcomes
+
+-   Installing R
+
+-   Meeting Groups
+
+-   R Programming
+
+# Installing R
+
+## Install R
+
+<https://cran.r-project.org/>
+
+**Must update to 4.3**
+
+## Install Rtools (for Windows)
+
+<https://cran.r-project.org/bin/windows/Rtools/>
+
+## Install RStudio
+
+<https://posit.co/download/rstudio-desktop/>
+
+## Install Quarto
+
+<https://quarto.org/docs/get-started/>
+
+## Install Tidyverse
+
+::: columns
+::: {.column width="20%"}
+:::
+
+::: {.column width="40%"}
+**Tidyverse**
+:::
+
+::: {.column width="40%"}
+**Base R**
+:::
+:::
+
+![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieSlhmGFyvyI/v2/-1x-1.jpg){fig-align="center" width="2200"}
+
+<https://www.tidyverse.org/>
+
+## Install csustats
+
+<https://www.inqs.info/csustats/>
+
+## Install sf
+
+<https://r-spatial.github.io/sf/>
+
+## Install Zotero (Optional)
+
+<https://www.zotero.org/>
+
+## Install GitHub Desktop (Optional)
+
+<https://desktop.github.com/>
+
+## Create Github Account (Optional)
+
+<https://github.com/>
+
+## Trello Account (Optional)
+
+<https://trello.com/home>
+
+# Meet the Group
+
+## Infant Product Sites
+
+::: columns
+::: {.column width="50%"}
+-   Christian Cobos
+
+-   Liam Moran
+
+-   Douglas Escobar
+:::
+
+::: {.column width="50%"}
+-   Joseph Martin
+
+-   Juan Torres
+
+-   Luis Luna-Badillo
+:::
+:::
+
+## Climate Change
+
+::: columns
+::: {.column width="50%"}
+-   Megan Cantrell
+
+-   Bailey Trytek
+
+-   Nadine Zayyad
+:::
+
+::: {.column width="50%"}
+-   Diana Vargas
+
+-   Alejandra Marquez
+
+-   Devin Frost
+:::
+:::
+
+## Vaccines
+
+::: columns
+::: {.column width="50%"}
+-   Kyle Miranda
+
+-   Spencer Mack
+
+-   Glen Armer
+:::
+
+::: {.column width="50%"}
+-   Glen Santiago
+
+-   Daniel Lopez
+
+-   Angel Rios
+:::
+:::
+
+## Create a Plan
+
+-   Exchange emails
+
+-   Set up a workspace online
+
+-   Identify First Steps

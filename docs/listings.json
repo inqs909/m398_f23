@@ -10,6 +10,8 @@
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/week_1.html"
+    ]
   }
 ]

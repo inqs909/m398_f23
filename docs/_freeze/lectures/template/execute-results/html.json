@@ -1,8 +1,10 @@
 {
-  "hash": "987d0d72fac6ab5da7a80421d5626235",
+  "hash": "7ea042c7b0f136ec88bb86cf01fe6f86",
   "result": {
-    "markdown": "---\ntitle: \"Welcome!\"\nsubtitle: \"Advance Research Investigations\"\nformat:\n  revealjs:\n    scrollable: true\n    theme: [default, styles.scss]\n    navigation-mode: vertical\n    controls-layout: bottom-right\n    controls-tutorial: true\n    incremental: false \n    chalkboard:\n      src: chalkboard.json\n      storage: chalkboard_pres\n      theme: whiteboard\n      chalk-width: 4\nknitr:\n  opts_chunk: \n    echo: true\n    eval: true\n    message: false\n    warnings: false\n    comment: \"#>\" \n    \nrevealjs-plugins:\n  - pointer\n  - verticator\n  \nfilters: \n  - reveal-header\n  - code-fullscreen\n\neditor: visual\n---\n\n\n## Learning Outcomes\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Welcome!\"\nsubtitle: \"Advance Research Investigations\"\nformat:\n  revealjs:\n    scrollable: true\n    theme: [default, styles.scss]\n    navigation-mode: vertical\n    controls-layout: bottom-right\n    controls-tutorial: true\n    incremental: false \n    chalkboard:\n      src: chalkboard.json\n      storage: chalkboard_pres\n      theme: whiteboard\n      chalk-width: 4\nknitr:\n  opts_chunk: \n    echo: true\n    eval: true\n    message: false\n    warnings: false\n    comment: \"#>\" \n    \nrevealjs-plugins:\n  - pointer\n  - verticator\n  \nfilters: \n  - reveal-header\n  - code-fullscreen\n\neditor: visual\n---\n\n\n## Learning Outcomes\n\n- Installing R\n\n- Meeting Groups\n\n- R Programming\n\n# Installing R\n\n## Install R\n\nhttps://cran.r-project.org/\n\n**Must update to 4.3**\n\n## Install Rtools (for Windows)\n\nhttps://cran.r-project.org/bin/windows/Rtools/\n\n## Install RStudio\n\nhttps://posit.co/download/rstudio-desktop/\n\n## Install Quarto\n\nhttps://quarto.org/docs/get-started/\n\n## Install csustats\n\nhttps://www.inqs.info/csustats/\n\n## Install sf\n\nhttps://r-spatial.github.io/sf/\n\n## Install Zotero (Optional)\n\nhttps://www.zotero.org/\n\n## Install Git (Optional)\n\nhttps://git-scm.com/book/en/v2/Getting-Started-Installing-Git\n\n## Create Github Account (Optional)\n\nhttps://github.com/\n\n# Meeting Group\n\n\n\n# R Programming\n\n",
+    "supporting": [
+      "template_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
